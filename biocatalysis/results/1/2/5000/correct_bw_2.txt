@@ -1,0 +1,1 @@
+C=C(NC(C)=O)c1ccccc1.Clc1ccc2[nH]ccc2c1.O=C(Cc1ccccc1)ON1C(=O)c2ccccc2C1=O|29>>CC(=O)N[C@](CCc1ccccc1)(c1ccccc1)c1c[nH]c2ccc(Cl)cc12

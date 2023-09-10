@@ -1,0 +1,1 @@
+CC(C)I.CNCc1ccccc1.O=CC1CCC1|8>>CC(C)C(C1CCC1)N(C)Cc1ccccc1

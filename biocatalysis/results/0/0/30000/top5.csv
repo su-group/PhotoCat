@@ -1,0 +1,7 @@
+metric,type,top,ec,value
+acc,forward,5,,0.8639639639639639
+acc,forward,5,overall,0.8639639639639639
+acc,backward,5,,0.0009009009009009009
+acc,backward,5,overall,0.0009009009009009009
+acc,ec,5,,1.0
+acc,ec,5,overall,1.0

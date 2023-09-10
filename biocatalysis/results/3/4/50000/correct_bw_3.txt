@@ -1,0 +1,1 @@
+C=C(O[Si](C)(C)C)c1ccccc1.FC(F)(F)C(F)(F)C(F)(F)C(F)(F)I.N=C(N)c1ccccc1|0.62.1>>FC(F)(F)C(F)(F)C(F)(F)c1cc(-c2ccccc2)nc(-c2ccccc2)n1
