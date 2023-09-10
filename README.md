@@ -1,5 +1,11 @@
 # PhotoCat
 
+This is the code for *PhotoCat: An Artificial Intelligence-Driven Synthesis Planning Platform for Multicomponent Photocatalysis*
+
+Photocatalysis is becoming increasingly important in modern chemistry for efficient multicomponent one-pot synthesis. However, predicting the results of photocatalytic reactions using artificial intelligence remains challenging, mostly due to the insufficient number of photocatalytic reactions and the incomplete information on reaction conditions in existing reaction databases. In this study, we curated the Photocatalysis Database (PhotoCatDB), which consists of 6,523 photocatalytic reactions (of which 6,175 are multicomponent) containing reaction condition information such as photocatalysts, bases or acids, additives, and solvents. Before adding reaction conditions to the training data, the attention-based deep learning model PhotoCat pre-trained on USPTO and fine- tuned on PhotoCatDB had a Top-1 accuracy of 78.16%, which was 77.70% higher than the same model trained only on the USPTO database and 14.53% higher than the model fine-tuned by the photocatalytic reactions from Reaxys. After adding reaction conditions to the training data, the Top-1 accuracy of PhotoCat was further increased to 82.25%. In addition, the interpretability of the model was reflected in its attention weights, which can infer the model’s understanding of photocatalytic chemistry. Furthermore, five previously unreported photocatalytic reactions predicted by PhotoCat were successfully validated by wet-lab experiments, demonstrating the potential of the model in identifying and verifying novel photocatalysis reactions of real-world significance.
+
+![Flow Chart](FlowChart.jpg)
+
 ## Setup
 
 ```bash
