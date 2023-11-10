@@ -17,7 +17,8 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 The PhotoCatDB is available upon request to the author (Email: `2013010024@hzvtc.edu.cn`).
 
-<!-- https://doi.org/10.6084/m9.figshare.24532918 -->
+<!-- The PhotoCatDB is now available at [figshare](https://doi.org/10.6084/m9.figshare.24532918)
+Download the data file and extracted into the data dir. -->
 
 ## Run
 
